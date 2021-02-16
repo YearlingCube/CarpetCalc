@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CarpetCalc", "CarpetCalc.vbproj", "{DEA9D31E-2868-43BF-B106-D56CAED3EECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA9D31E-2868-43BF-B106-D56CAED3EECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA9D31E-2868-43BF-B106-D56CAED3EECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA9D31E-2868-43BF-B106-D56CAED3EECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA9D31E-2868-43BF-B106-D56CAED3EECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0E86B39-1473-40CD-8781-C31DFF580544}
+	EndGlobalSection
+EndGlobal
